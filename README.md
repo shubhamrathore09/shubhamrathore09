@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrathore09&show_icons=true&locale=en&layout=compact" alt="shubhamrathore09" /></p>
 
-<img src="https://camo.githubusercontent.com/83774bbc4f77ac7962295e38dc0ce66410cf40d817db099f0c833b3b75627a2c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7368656574616c62697368743230303126"/>
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamrathore09)](https://github.com/Shubhamrathore09/github-readme-stats)
