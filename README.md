@@ -17,3 +17,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrathore09&show_icons=true&locale=en&layout=compact" alt="shubhamrathore09" /></p>
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamrathore09)](https://github.com/Shubhamrathore09/github-readme-stats)
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamrathore09)](https://github.com/shubhamrathore09/github-readme-stats)
