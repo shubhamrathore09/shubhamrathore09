@@ -18,5 +18,5 @@
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamrathore09)](https://github.com/Shubhamrathore09/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamrathore09)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamrathore09)
 
