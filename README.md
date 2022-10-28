@@ -18,4 +18,4 @@
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamrathore09)](https://github.com/Shubhamrathore09/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+https://github.com/users/shubhamrathore09/contributions_calendar_data
