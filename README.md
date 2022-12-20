@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Rathoreshubham706@gmail.com**
 
-- 📄 Know about my experiences Resume [https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing](https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing)
+- 📄 Know about my experiences Resume [https://drive.google.com/file/d/1qNbSg01xVX6WKoQ2Vz46R7AnWYRqP2-U/view?usp=share_link](https://drive.google.com/file/d/1qNbSg01xVX6WKoQ2Vz46R7AnWYRqP2-U/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
  <div align="center" >
