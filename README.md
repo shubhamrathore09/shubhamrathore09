@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning **Java,SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamrathore09/shubhamrathore09.github.io](https://github.com/shubhamrathore09/shubhamrathore09.github.io)
+-  All of my projects are available at [https://github.com/shubhamrathore09](https://github.com/shubhamrathore09)
+- 👨‍💻 Portfolio [https://shubhamrathore09.github.io/](https://shubhamrathore09.github.io/)
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **Rathoreshubham706@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing](https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing)
+- 📄 Know about my experiences Resume [https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing](https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
  <div align="center" >
